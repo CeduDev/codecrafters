@@ -1,3 +1,6 @@
 [submodule "codecrafters-kafka-rust"]
 	path = codecrafters-kafka-rust
 	url = https://git.codecrafters.io/6f9cb4e4a22073f6
+[submodule "codecrafters-shell-go"]
+	path = codecrafters-shell-go
+	url = https://git.codecrafters.io/940cf1b0ab54fdce
